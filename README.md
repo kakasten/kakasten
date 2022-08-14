@@ -2,8 +2,8 @@
 
 <div align="center">
 <a href="https://github.com/kakasten">
-<img height="200em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakasten&layout=compact&langs_count=7&theme=aura"/>
-<img height="200em"  src="https://github-readme-stats.vercel.app/api?username=kakasten&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+<img height="200em" width="700em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakasten&layout=compact&langs_count=7&theme=aura"/>
+<img height="200em" width="700em" src="https://github-readme-stats.vercel.app/api?username=kakasten&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
 </div>
 
   ##

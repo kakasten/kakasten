@@ -1,16 +1,22 @@
-### Hi there 👋
+## <h1 align="center">Olá! Me chamo Luiz e estou começando a aprender programação</h1>
 
-<!--
-**kakasten/kakasten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kakasten&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakasten&layout=compact&langs_count=7&theme=dark"/>
+  
+##
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" style="width: 40px"/>
+          </a>
+                                        <a href="https://www.w3schools.com/cpp/cpp_intro.asp" target="_blank" align="center">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" style="width: 40px"/>
+          </a>
+                              <a href="https://www.python.org/" target="_blank">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="width: 40px"/>
+          </a>
+          <a href="https://www.javascript.com/" target="_blank">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="width: 40px"/>
+          </a>
+          

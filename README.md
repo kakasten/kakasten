@@ -1,12 +1,13 @@
 ## <h1 align="center">Olá! Me chamo Luiz e estou começando a aprender programação</h1>
 
 <div align="center">
-  <a href="https://github.com/kakasten">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kakasten&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakasten&layout=compact&langs_count=7&theme=dark"/>
+<a href="https://github.com/kakasten">
+<img height="200em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakasten&layout=compact&langs_count=7&theme=aura"/>
+<img height="200em"  src="https://github-readme-stats.vercel.app/api?username=kakasten&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
 </div>
 
   ##
+  
   
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" style="width: 40px"/>

@@ -22,7 +22,7 @@
 
 <div align="center">
   
-  ![Snake animation]()
+![Snake animation](https://github.com/kakasten/kakasten/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 

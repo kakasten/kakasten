@@ -1,6 +1,6 @@
 
   <div>
-  <h1 align="center">Olá! Me chamo <i>Luiz</i></a>, e estou começando aprender promação 😃️</h1>
+  <h1 align="center">Olá! Me chamo <i>Luiz</i></a>, e estou começando aprender programação 😃️</h1>
 
 <div align="center">
   <a href="https://github.com/Kakasten">
